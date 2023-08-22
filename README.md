@@ -1,6 +1,6 @@
 # gold-refining-output-modeling
 
-This repository contains an analysis and model created as part of a coursework project.
+This repository contains an analysis and model created as part of a coursework project, simulating how machine learning could be applied to a business case.
 
 The objective of the project was to prepare a prototype of a machine learning model for a customer. The company develops efficiency solutions for heavy industry.
 

@@ -8,4 +8,4 @@ The model should predict the amount of gold recovered from gold ore using the da
 
 The model will help to optimize the production and eliminate unprofitable parameters.
 
-The data is stored in three files, 'gold_recovery_full.csv', 'gold_recovery_test.csv', and 'gold_recovery_train.csv'. The analysis and model are contained within the '[ip2.ipynb](https://github.com/joshgreenberg8/gold-refining-output-modeling/blob/main/ip2.ipynb)https://github.com/joshgreenberg8/gold-refining-output-modeling/blob/main/ip2.ipynb' file, which you can view or download here.
+The data is stored in three files, 'gold_recovery_full.csv', 'gold_recovery_test.csv', and 'gold_recovery_train.csv'. The analysis and model are contained within the '[ip2.ipynb](https://github.com/joshgreenberg8/gold-refining-output-modeling/blob/main/ip2.ipynb)' file, which you can view or download here.
